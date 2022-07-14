@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    tools:context=".ui.DemiBot.DemiBot">
+
+    <TextView
+        android:id="@+id/ourmsg"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_margin="10dp"
+        android:background="@drawable/buttonbg"
+        android:gravity="center|end"
+        android:text="Your massage"
+        android:drawableLeft="@drawable/uname"
+        android:padding="10dp"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/botmsg"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/buttonbg2"
+        android:gravity="center|start"
+        android:text="Bot replay"
+        android:drawableLeft="@drawable/artificialintelligence"
+        android:padding="10dp"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="0.15"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/massage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="2"
+                android:ems="10"
+                android:hint="Type your massage here"
+                android:inputType="textPersonName|textImeMultiLine" />
+
+            <ImageView
+                android:id="@+id/send"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:src="@drawable/send" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

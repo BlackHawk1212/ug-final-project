@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "97852920444",
+    "firebase_url": "https://dimentia-care-default-rtdb.firebaseio.com",
+    "project_id": "dimentia-care",
+    "storage_bucket": "dimentia-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97852920444:android:846c8694ca0c4bde732ff9",
+        "android_client_info": {
+          "package_name": "com.example.dimentiacare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97852920444-25ct9kktib21ig0ng2pb638p5kd8milq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dimentiacare",
+            "certificate_hash": "29ec014a37761b2108300e260b7cd6d7dfc95495"
+          }
+        },
+        {
+          "client_id": "97852920444-71h3vrrcfoai0tn1r8c94d49opssnldm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQC8qcfm0hl2EWpIXcXWCoX8bL0G00iyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97852920444-71h3vrrcfoai0tn1r8c94d49opssnldm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

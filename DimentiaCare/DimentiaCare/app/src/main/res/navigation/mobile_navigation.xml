@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.dimentiacare.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home">
+
+        <action
+            android:id="@+id/action_HomeFragment_to_HomeSecondFragment"
+            app:destination="@id/nav_home_second" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_home_second"
+        android:name="com.example.dimentiacare.ui.home.HomeFragment"
+        android:label="@string/home_second"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_HomeSecondFragment_to_HomeFragment"
+            app:destination="@id/nav_home" />
+
+        <argument
+            android:name="myArg"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_activities"
+        android:name="com.example.dimentiacare.ui.chooseActivity.Fragment_chooseActivity"
+        android:label="Activities"
+        tools:layout="@layout/activities_fragment" />
+
+    <fragment
+        android:id="@+id/nav_music"
+        android:name="com.example.dimentiacare.ui.music.MusicFragment"
+        android:label="Music"
+        tools:layout="@layout/music_fragment" />
+
+    <fragment
+        android:id="@+id/nav_guide"
+        android:name="com.example.dimentiacare.ui.guide.GuideFragment"
+        android:label="Guide"
+        tools:layout="@layout/guide_fragment" />
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.example.dimentiacare.ui.profile.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/profile_fragment" />
+
+    <fragment
+        android:id="@+id/nav_logout"
+        android:name="com.example.dimentiacare.ui.logout.Logout"
+        android:label="Logout"
+        tools:layout="@layout/logout_fragment" />
+
+    <fragment
+        android:id="@+id/nav_share"
+        android:name="com.example.dimentiacare.ui.share.ShareFragment"
+        android:label="Share"
+        tools:layout="@layout/share_fragment" />
+
+    <fragment
+        android:id="@+id/nav_rate"
+        android:name="com.example.dimentiacare.ui.rate.RateUsFragment"
+        android:label="Rate Us"
+        tools:layout="@layout/rate_us_fragment" />
+
+
+</navigation>

@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">Dimentia Care</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="about">
+
+
+<b></b>  <b><i></i></b>  <i></i>
+
+Dementia is a loss of mental functions that is severe enough to affect your daily activities or routines and functions such as memory, language skills, visual recognition, problem solving, trouble with everyday tasks, ability to focus and pay attention <i>(U.S. National Library of Medicine, 2020)</i>.
+\n\n
+<b><i>\‘A disorder because of illness of the cerebrum, as a rule of a persistent or reformist nature, where there is the unsettling influence of different higher cortical capacities, including memory, thinking, direction, cognizance, figuring, learning ability, language, and judgment. Awareness is not impeded. Weaknesses of intellectual capacity ordinarily go with, periodically went before, by weakening in enthusiastic control, social conduct, or inspiration. The disorder happens in Alzheimer\'s infection, in cerebrovascular sickness, and in different conditions basically or optionally influencing the mind\’ <i>(National Collaborating Centre for Mental Health UK, 2007)</i>.</i></b>
+\n\n
+Dementia results from an assortment of illnesses and wounds that essentially or optionally influence the mind, for example, Alzheimer\'s sickness or stroke (World Health Organization, 2012). Dementia is one of the significant reasons for incapacity and reliance among more seasoned individuals around the world. It tends to be overpowering, for the individuals who have it as well as for their care takers and families. There is regularly an absence of mindfulness and comprehension of dementia, bringing about criticism and hindrances to finding and care. The effect of dementia on care takers, family and society everywhere can be physical, mental, social, and monetary <i>(World Health Organization, 2012)</i>.
+\n\n
+<b>types of Dementia</b>
+\n\n
+<b><i>Alzheimer\’s disease</i></b>
+\n\n
+which is the most well-known type of dementia among more seasoned individuals. Individuals with Alzheimer\'s have plaques and tangles in their cerebrum. These are irregular developments of various proteins. Beta-amyloid protein bunches up and frames plaques in the middle of your synapses. Tau protein develops and frames tangles inside the nerve cells of your cerebrum. There is likewise a deficiency of association between nerve cells in the mind <i>(U.S. National Library of Medicine, 2020)</i>.
+\n\n
+<b>Factors which cause of the Dementia</b>
+\n\n
+<b><i>Maturing. This is the greatest danger factor for dementia.</i></b>
+\n
+Your body goes through numerous progressions with maturing. As grown-ups age, some may encounter typical age-related changes in memory and thinking. Dementia, or extreme cognitive decline that meddles with day-by-day life, is not important for the typical maturing measure <i>(Centers for disease control and prevention, 2020)</i>.
+\n
+<b><i>Smoking</i></b>
+It is realized that smoking builds the danger of vascular issues, including through strokes or more modest seeps in the cerebrum, which are additionally hazarded factors for dementia. What is more, poisons in tobacco smoke increment oxidative pressure and aggravation, which have both been connected to creating of Alzheimer\'s sickness.
+\n
+<b><i>Uncontrolled diabetes</i></b>
+Diabetes can cause a few complexities, for example, harm to your veins. Diabetes is viewed as a danger factor for vascular dementia. This kind of dementia happens because of cerebrum harm that is frequently brought about by diminished or impeded bloodstream to your mind <i>(Mayo clinic staff, 2019)</i>.
+\n
+<b><i>Hypertension</i></b>
+Hypertension is a persistent condition that causes reformist organ harm. It is notable that by far most of the instances of Alzheimer\'s sickness and related dementia are not because of hereditary inclination yet rather to constant presentation to vascular danger factors <i>(Oxford University Press USA, 2018)</i>.
+\n
+<b><i>Drinking a lot of liquor</i></b>
+Unnecessary liquor utilization throughout a protracted timeframe can prompt mind harm and may expand your danger of creating dementia. In any case, savouring liquor control has not been indisputably connected to expanded dementia hazard, nor has it been appeared to bring to the table huge security against creating dementia.
+\n
+<b><i>Having close relatives who have dementia</i></b>
+Alzheimer\'s sickness and different dementias have a profound effect on the individuals who are analysed, yet additionally on the individuals who are nearest to them. Relatives need to take on various obligations when a relative is determined to have dementia. Children and girls of a parent with dementia may become guardians and married couples of the individual with dementia see their jobs change. They regularly end up in the part of essential guardian.
+\n
+<b>Stages of Dementia</b>
+\n\n
+<b><i>1.	No impairment.</i></b>
+Somebody at this stage will show no side effects, however, tests may uncover an issue.
+\n
+<b><i>2.	Very mild decline.</i></b>
+You may see slight changes in conduct, however, your cherished one will even now be free.
+\n
+<b><i>3.	Mild decline.</i></b>
+You will see more changes in their reasoning a lot. They may have trouble planning, and they may rehash themselves a great deal. They may likewise struggle to recall late occasions.
+\n
+<b><i>4.	Moderate decline.</i></b>
+They will have more issues with planning and recollecting ongoing occasions. They may struggle to voyage and dealing with cash.
+\n
+<b><i>5.	Moderately severe decline.</i></b>
+They may not recollect their telephone number or their grandkids\' names. They might be befuddled about the hour of day or day of the week. Now, they will need help with some essential everyday capacities, for example, choosing garments to wear.
+\n
+<b><i>6.	Severe decline.</i></b>
+They will start to fail to remember the name of their mate. They will require help heading off to the bathroom and eating. You may likewise observe changes as a part of their character and feelings.
+\n
+<b><i>7.	Very severe decline.</i></b>
+They can presently do not talk their contemplations. They cannot walk and will spent much of their energy in bed <i>(Brunilda Nazario, WebMD 2020)</i>.
+\n\n
+According to the World Health Organization, Dementia influences every individual in an alternate manner, contingent on the effect of the illness and the individual\'s character prior to getting sick. The signs and manifestations connected to dementia can be perceived in three phases.  According to their categorization they named stages as; <b>Early stage, Middle stage, and Late stage</b> <i>(World Health Organization, 2012)</i>.
+\n
+A determination of dementia can hugely affect an individual\'s life. Somebody as of late determined to have dementia is probably going to encounter a scope of feelings. These may incorporate sadness, misfortune, outrage, stun, dread, mistrust and even help. Living with dementia presents numerous difficulties for individuals with dementia and for the individuals who care for them. This might be combined with other medical issues as the gathering of changes related to maturing can prompt the accumulation of sicknesses and handicaps <i>(Yancik R, Ershler W, Satariano W, Hazzard W, Cohen HJ, Ferrucci L, 2007)</i>.
+\n\n
+A few people may battle to manage these feelings and they may move between feelings as they change. They may feel apprehensive about the future, frightened about snapshots of disarray and carelessness, and upset about the effect dementia has on everyone around them. The affirmation of a determination may trigger melancholy and uneasiness in certain individuals. There are various talking treatments and - if necessary - drug medicines accessible for discouragement and nervousness. Way of life changes can help as well <i>(alzheimers.org.uk, 2020)</i>.
+\n\n
+Dementia can be overpowering for the groups of influenced individuals and for their care takers. Physical, enthusiastic, and monetary weights can make extraordinary pressure families and care takers, and backing is needed from the wellbeing, social, monetary, and overall sets of laws <i>(World Health Organization, 2012)</i>.
+\n\n
+Furnishing care to a relative with dementia, nonetheless, is frequently a distressing encounter that can disintegrate the psychological and actual strength of the guardian. Parental figures create sensations of weight as well as show more elevated levels of mental indications, burdensome and tension problems, more unfortunate safe capacity, and even a higher passing danger contrasted with non-guardians of everybody <i>(World Health Organization, 2012)</i>.
+\n\n
+At times, the activities, and articulations of an individual living with dementia are \'practices\' that are disturbing, testing and going up against. These \'practices\' are regularly viewed as brought about by the illness, a manifestation of dementia. Sadly, they are regularly overseen utilizing a drug, restriction, separation, and a dismissal for the individual as a person <i>(alzheimerswa.org.au, 2019)</i>.
+\n\n
+Individuals with dementia regularly experience changes in their passionate reactions. They may have less power over their sentiments and how they express them. For instance, somebody might be bad-tempered, or inclined to quick temperament changes or blowing up to things. They may likewise show up surprisingly uninterested in things or far off <i>(alzheimers.org.uk, 2020)</i>.
+\n\n
+There are around 670,000 relatives and companions giving most consideration to individuals with dementia in the United Kingdom. Together, these guardians are assessed to give 1.3 billion hours of care for each year and spare the UK economy £12 billion yearly <i>(Alzheimer\'s Society. Dementia UK update, 2014)</i>. Without the assistance of such parental figures, the conventional consideration framework would probably implode <i>(Alzheimer\'s Society, Carer support, 2013)</i>.
+\n
+Dementia is probably the greatest test in medical services around the world. It impacts people, their families and companions, guardians, and society <i>(Alzheimer\’s Society, 2009)</i>. Additionally, the visits of outpatients with a memory problem in specific medical care are rising each year <i>(National Institute for Health and Welfare, 2011)</i>. The current framework, which is centered around intense consideration, is ill-equipped to offer to organize care for more established individuals in various consideration conditions <i>(Nina Hynninen, Reetta Saarnio, Satu Elo, 2016)</i>. Further <i>Nina Hynninen (2016)</i> according to the estimates a fourth of emergency clinic beds are involved by individuals with dementia over the time of 65 years <i>(Alzheimer\’s Society, 2009)</i>. Patients older than 65 years go through over 55\% of all surgeries performed. Hospitalized individuals with dementia have expanded danger of enduring ridiculousness, falls, parchedness, and untreated torment <i>(Cohen-Mansfield, J, Thein, K, Marx, MS, 2012)</i>. Hence, the nursing staff thinking about individuals with dementia need preparing in managing this patient gathering. The preparation needs incorporate correspondence, overseeing fomentation, sustenance, and cleanliness <i>(Weitzel, T, Robinson, S, Barnes, MR, 2011)</i>.
+\n\n
+Dementia directing is dementia care that fixes physiologically insecure circumstance of an individual with dementia, through responsive and mindful discussions. An individual with dementia ought to get the directing as regularly as could be expected under the circumstances. Nonetheless, it is hard for a predetermined number of guardians to save adequate time and exertion <i>(Seiji Sakakibara, Sachio Saiki, Masahide Nakamura, 2017)</i>. According to <i>Seiji Sakakibara (2017)</i> they inspiring to misuse the virtual specialist innovation they are creating, for executing everyday dementia directing framework at home.
+\n\n
+Since most types of dementia cannot be restored, the focal point of treatment is to give satisfactory consideration. Present-day approaches endeavour to zero in on the necessities of patients, for example, assisting them with keeping up psychological working, the capacity to perform ordinary assignments, and personal satisfaction for to the extent that this would be possible <i>(Nina Rieckmann, Christoph Schwarzbach, 2009)</i>.
+\n\n
+According to the research there are two main therapies which is approved by doctors. One recovery method is music therapy.
+\n
+Tension can influence individuals with indications of dementia, particularly in the beginning phases of the illness, as they initially understand their deficiency of memory and declining intellectual capacities. There is a lot that guardians can never quiet their friends and family. Not every one of them will work in each condition, or with each person, tolerance and an experimentation approach might be ideal <i>(blog.thebristal.com)</i>.
+\n\n
+The individuals who experience the ill effects of dementia are normally burdened by uneasiness and fits of anxiety. This can be particularly pervasive in the beginning incredibly to holds with their intellectual decrease. As a guardian, companion, or relative, this can be hard to observe, however, there are a few things that you can do to assist them with getting on edge periods <i>(kadmin, angelsseniorliving.com, 2018)</i>. According to <i>kadmin (2018)</i> there are five activities that care takers can do with the people with Dementia. These activities are as follows.
+\n\n
+•	<b><i>Breathing Exercises</i></b> – It might appear cliché, yet controlled profound breathing is one of the most broadly supported activities for quieting seniors with dementia. Profound breathing is finished by growing the stomach to completely fill the lungs and really prompts an unwinding reaction in the mind. Shallowed, froze breathing can really deliver pressure hormones into the body.
+\n
+•	<b><i>Outdoors</i></b> – Try taking moderate, easy-going strolls outside when your cherished one feels somewhat on edge. The outside climate and change of view can go about as a loosening up redirection and will help remove their brain from the uneasiness source. Other outside exercises, for example, planting, are likewise incredible sources to consider.
+\n
+•	<b><i>Brain Exercises</i></b> – Cognitive activities are extraordinary approaches to keep the cerebrum dynamic and not pondering tension triggers. Exercises, for example, messing around, having drawing in conversations, or in any event, playing on the PC can help.
+\n
+•	<b><i>Tai Chi or Yoga</i></b> – As long as these exercises are inside the actual abilities of people with Dementia, yoga and tai chi can help facilitate the psyche and body and can help advance unwinding.
+\n\n
+<b>Music</b> – Listening to the senior\'s favourite music or just for the most part quieting music is an extraordinary method to help facilitate their sense of panic.
+\n\n
+Music treatment is characterized by the World Federation of Music Therapy as the utilization of music and additionally its melodic components (sound, mood, tune and amicability) by a certified music specialist, with a customer or gathering, in a cycle intended to encourage and advance correspondence, connections, learning, activation, articulation, association and other pertinent helpful targets to meet physical, passionate, mental, social and psychological necessities <i>(World Federation of Music Therapy, 2010)</i>.
+\n
+Two fundamental sorts of music treatment can be recognized: receptive and active music treatment. Receptive music treatment comprises of tuning in to music by the advisor who sings or chooses recorded music for the beneficiaries. Active music treatment, beneficiaries are effectively engaged with the music‐making by playing for example on little instruments. The members might be urged to take an interest in melodic spontaneous creation with instruments or voice, with dance, development exercises or singing. Music specialists need the abilities of the two artists and advisors on the off chance that they are to profit insane individuals. Music advisors must be prepared to choose and apply melodic boundaries sufficiently, custom-made to a patient\'s necessities and objectives <i>(Annemiek C VinkManon S BruinsmaRob JPM Scholten, 2003)</i>.
+\n\n
+Another method to recover is brain exercises which doctors are following to recover memory of persons with Dementia.
+\n
+At the point when individuals keep their brains dynamic, their reasoning abilities are less inclined to decay, clinical examination shows. Games, puzzles, and different kinds of mind preparing may help moderate cognitive decline and other mental issues <i>(WebMD, 2010)</i>. Further <i>WebMD (2010)</i> explain in their journal about one research study was done by a researcher included more than 2,800 adults 65 and elder. They went if 10 hour-long mind instructional meetings for 5 to about a month and a half. The meetings zeroed in on strategies for these aptitudes:
+\n
+•	Memory
+\n
+•	Reasoning
+\n
+•	Speed of processing information
+\n
+Individuals who took the preparation indicated improvement in these aptitudes that went on for at any rate 5 years. They additionally improved at regular undertakings, for example, the capacity to oversee cash and do housework <i>(WebMD, 2010)</i>.
+\n\n
+
+</string>
+</resources>
