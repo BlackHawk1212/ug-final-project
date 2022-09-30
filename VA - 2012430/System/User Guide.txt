@@ -1,0 +1,88 @@
+		
+	*****    ******  **     **  ******  **     *  *******  *******      *             ******      *      *****   ******
+         *    *  *       *  * *  *  *       *  *   *     *        *        * *          *            * *      *   *  *
+	 *    *  ******  *   *   *  ******  *   *  *     *        *       *****         *           *****     ****   ******
+	 *    *  *       *       *  *       *    * *     *        *      *     *        *          *     *    * *    *
+        *****    ******  *       *  ******  *     **     *     *******  *       *         ******  *       *   *   *  ******
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Updated - May 11, 2021
+
+Size - N/A
+
+Current Version - 1.0
+
+Requires Android - 4.0 and up
+
+Permissions
+
+	* Network access
+	* Microphone access
+	
+Offered By - N. Mendis (UoB)
+
+Developer
+Mail Address - dementiacare29113@gmail.com
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+*** How to install Java Oracle JDK ***
+	1. Go to link - https://www.oracle.com/java/technologies/javase-downloads.html?fbclid=IwAR3WDnBC4CfnwotaTMoX78_4ylC-GKg65n7tme_juCMSD_0r6EolpQBYZ4Y
+	2. Click on Download JDK 15.0.1
+	3. Locate Windows OS executable file x32/x64
+	4. Start Download
+	5. Run the downloaded file
+	6. Do the installation procedure
+	7. Go to Java installed file location
+In newer versions you don't see the JRE file. JRE comes with the JDK bundle. You don't want to install JRE seperately
+
+>>> Set the environmental variable
+	1. You have to go inside the bin folder in Java JDK 15 and copy the file path
+	2. On start search the result for Edit the system environment variables
+	3. In Advance tab you need to go Environment Variables
+	4. Under system variable you need to click variable 'path' and click on edit
+	5. click on new and add the bin folder path
+	7. once you have add click on ok 
+Then you have to add java home path
+		1. click on new under system variable
+		2. Under variable name type JAVA_HOME
+		3. you need to paste the JDK 15 file path under variable value and click ok
+	8. click ok
+	9. click ok 
+
+
+*** How to install and setup Android Studio ***
+	1. Go to link - https://developer.android.com/studio
+	2. download exe file by clicking on 'DOWNLOAD ANDROID STUDIO'
+	3. click in tick agreement and download for windows
+	4. click on downloaded file to install the setup
+	5. Open the Android studio and download requred components
+	6. Extract the DimentiaCare zip file and open with Android Studio
+
+
+*** How to install Java Oracle JDK ***
+	1. Go to link - https://www.python.org/downloads/
+	2. click on download python latest version
+	3. Run the downloaded executable file
+	4. Install the setup
+	5. Set environment variables
+
+
+*** How to install Anaconda 3 ***
+	1. Go to Anaconda official web page and download the latest setup
+	2. install the download setup
+	3. Type this command on Anaconda navigator command prompt 'conda create --name cb Python=3.7'
+	3. Run the anaconda navigator and install the relevant environments (Tensorflow, Keras)	
+
+
+*** How to install PyCharm with Anaconda Plugin ***
+	1. Go to PyCharm official web page and download 2020.1.0
+	2. Download the executable file with anaconda plugin
+	3. Install the exe file
+	4. setup the python environment
+	5. Extract the chatbot zip file and open with PyCharm
+
+After install postman you can test the chatbot using this "http://192.168.1.4:5000/chat?chatInput" and input a pattern to get a response
+if you recieved a message sucssefully chatbot running perfectly on your device

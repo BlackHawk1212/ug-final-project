@@ -1,0 +1,5 @@
+nltk - neutral language processing
+dataset ekak aran modify 
+patterns response
+json array intents
+

@@ -1,0 +1,106 @@
+Good morning everyone
+
+First let me introduce myself
+My name is Nishshanka Nimesh Mendis
+bearing student ID 2012430
+Im a Computer Science and Software Engineering student
+and my Supervisor is Mr. Vibhavi Attigala
+
+
+
+Lets take a look background of my research,
+My research problem was Improve Mental Health of Persons with Dementia
+by using a mobile application
+
+
+
+So What is Dementia?
+Let me give you a brief introduction regarding Dementia.
+Dementia is a loss of mental functions that is severe enough to affect your 
+daily activities or routines and functions 
+such as memory, language skills, visual recognition, problem solving, 
+trouble with everyday tasks, ability to focus and pay attention
+
+
+
+Dementia is recognize as one of the main problem developing in social health
+As i mentioned earlier Dementia occurs due to abnorminal brain changes of a person
+Due to this Dementia people have many difficulties of concentrating 
+and it is hard to get their attention
+
+So there is another question come up in here.
+you can ask
+How mobile application is useful for this situation?
+
+What if we develop and provide activities such as remembering things to help them to
+recover their memory up to some extend
+and add features which can take their attention playing sounds or music.
+As a system it has to be unique and find insufficient functionalities in the existing
+systems and try to bring a better solution
+
+
+
+Lets discuss what are the solutions came up with my system
+My aim was to Develop a mobile application to improve 
+mental health and quality of life a person with Dementia.
+following are the objectives of my developed system
+
+
+
+It is important conduct a literature review before developing the system
+following are some of the successful implementation existing in the playstore
+
+Cognicare 
+Cognicare provide users to share their personal experience, their knowledge, 
+and their good practices with each other in this application additionally application
+provides user to track down the dementia patient's hygine
+
+A Walk Through Dementia
+application brings out Virtual Reality experience to the user. 
+Another objective of this project was trying to recreate what persons with 
+dementia see and how they feel. Special thing in this application is dementia patient can 
+experiencing a walk places where they can remember easily 
+
+Dementia guide expert
+This application is a personal guide mobile application targeted for the family, friends 
+and care takers looking after people with Dementia
+
+Dementia Stages ability model
+Teepa Snow created this GEMS model based on Allen Cognitive scale, 
+recognize the shifts in skills and abilities in any given moment.
+
+All these applications were designed in a unique way to all the users
+
+But in my application I used AI technology. My application is unique since other application 
+doesn't use any AI technology with mechine learning or deep learning techniques
+
+
+
+Then we discuss about the methodology used in this research
+Agile methodology was used through out the research duration
+in agile methodology
+Distinctive functionalities of the application was divided and implemented separately
+Starting from planning (Read the cicles)
+
+According to the agile methodology
+we need to have requirements (Read the slide)
+
+
+
+When we talk about the outcome of the research as the researcher I have completed 
+all the objectives as i mentioned in previous slides
+
+
+
+Thank you. Please ask any questions regarding the presentation and thesis report
+
+
+
+I would like to take this chance to thank Mr. Vibhavi Attigala and 
+Dr. Gayana Fernando guiding me throughout this research. Thank you board of evaluators
+Have a nice day 
+
+
+
+
+
